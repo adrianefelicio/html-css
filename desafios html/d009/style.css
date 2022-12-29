@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body{
+  background-color: black;
+}
+h1{
+  color: antiquewhite;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+  width: 500px;
+  margin-left: 480px;
+  margin-right: auto;
+}
